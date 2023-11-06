@@ -2,31 +2,47 @@
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
+- Send a request for data to an API endpoint, a URL.
+- Handle a JSON response.
+
+---
+
+## Key Vocab
+
+- **JSON**: JSON is an open standard file format and data interchange format.
+  that uses human-readable text to store and transmit data objects consisting of
+  attribute–value pairs and arrays.
+- **Endpoint**: An endpoint is one end of a communication channel.
+- **API**: API is the acronym for Application Programming Interface, which is a
+  software intermediary that allows two applications to talk to each other.
+
+---
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+Applications often need to talk to one another. When you go to apply for a job,
+sometimes you will see an option that allows you to import your profile from
+LinkedIn. What’s happening here is the site you’re using is talking to LinkedIn,
+and requesting some information. If you've ever seen a Google map inside of
+another website or app such as Yelp — you're accessing remote data from a 3rd
+party source.
 
-## Topic 1
+This data can be very useful. You can pick and choose what parts of an
+application you want to use without trawling through an entire codebase. You can
+add a lot of interesting functionality into simple apps.
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+We'll discuss the answers to the following questions along the way:
 
-## Topic 2
+- What is an API?
+- How can APIs be used?
+- How do you find the API endpoint?
+- How do you send a request to an API?
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+In the next couple of lessons, we'll talk about leveraging remote data in our
+applications.
 
-## Conclusion
-
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
+---
 
 ## Resources
 
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+- [What is an API?] (https://www.mulesoft.com/resources/api/what-is-an-api)
